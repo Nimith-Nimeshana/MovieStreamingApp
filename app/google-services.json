@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "18324749274",
+    "firebase_url": "https://stremingapp-cc29b-default-rtdb.firebaseio.com",
+    "project_id": "stremingapp-cc29b",
+    "storage_bucket": "stremingapp-cc29b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18324749274:android:dec884592b87582f429ee3",
+        "android_client_info": {
+          "package_name": "com.example.flixproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18324749274-do4d14dntghbv3beqplljvfa27jqk66v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsspFimYrmX6BIM0LauLVplBf2DfUTNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18324749274-do4d14dntghbv3beqplljvfa27jqk66v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

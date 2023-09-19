@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/black_back.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/bottom_background.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/bottom_gradient.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/bottom_to_top.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/gradient_background.xml" value="0.2" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/ic_play_btn.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/ico.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/image_glow.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/item_selector.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/round_btn.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/rounded_corner.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/rounded_outline.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/splah_bg.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/drawable/top_to_bottom_gradient.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_all_movies.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_all_series.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_details.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_features.xml" value="0.18" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_films.xml" value="0.22" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_login_form.xml" value="0.22" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_nav_bar.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_player.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_register_form.xml" value="0.18" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_search.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/activity_view.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/cast_item.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/episode_item.xml" value="0.67" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/movie_card.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/search_cards.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/slider_items.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/layout/slider_movie_items.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/menu/bottom_menu.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/nimit/AndroidStudioProjects/flixProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.11041666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
