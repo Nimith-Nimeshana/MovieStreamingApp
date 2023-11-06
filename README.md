@@ -12,3 +12,21 @@ App Features
 ** Developed With Android Studio (ArcticFox) **
 
 To initiate your exploration of the app, download it from the GitHub release.
+
+                                                        ## Screenshots ##
+Home UI
+
+![home ui](https://github.com/Nimith-Nimeshana/MovieStreamingApp/assets/100043929/6e688859-a444-4bdf-ba00-1e8e0daac77b)
+
+Movies UI
+
+![movie ui](https://github.com/Nimith-Nimeshana/MovieStreamingApp/assets/100043929/01de470f-440d-44b5-abba-f4a4f55c38dc)
+
+TV Shows UI
+
+![tv shows ui](https://github.com/Nimith-Nimeshana/MovieStreamingApp/assets/100043929/5f40e817-5e4f-4241-93f1-f9ffd18ee094)
+
+Search UI
+
+![search](https://github.com/Nimith-Nimeshana/MovieStreamingApp/assets/100043929/6927cc48-7bf1-4a7c-90ab-7a9610bdb489)
+
