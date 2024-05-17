@@ -9,8 +9,6 @@ App Features
 4. Users have the capability to indulge in TV show episodes, granting them the freedom to enjoy their favorite series without interruptions
 5. Empowering users with the ability to search for specific movies or TV shows, our app streamlines the discovery process and ensures you find exactly what you're looking for (Under Developing)
 
-** Developed With Android Studio (ArcticFox) **
-
 To initiate your exploration of the app, download it from the GitHub release.
 
                                                         ## Screenshots ##
